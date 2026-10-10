@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+*.pt
+*.pth
+*.npz
+data/
+work/slices/

@@ -1,0 +1,6 @@
+{
+  "train_subjects": 40,
+  "val_subjects": 10,
+  "best_val_wt_dice": 0.8661851465702057,
+  "epochs": 15
+}
